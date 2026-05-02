@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+//тестовый коментарий
+
 func Add(a, b int) int {
 	return a + b
 }
